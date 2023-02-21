@@ -24,3 +24,8 @@ html {
   }
   
   /* End of "Micro clearfix" */
+
+
+  test{
+    bakground-image: url("../img/filename.jpg")
+  }
